@@ -3,4 +3,4 @@ TicTacToe GUI with unbeatable AI created using python pygame and minimax algorit
 Check out the screenshot for a short view! 
 You can run the code in your machine just make sure you have python and pygame(one of the library of python) installed.
 
-Markup : ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+![picture alt](https://github.com/Supriyo-455/Unbeatable-TicTacToe-AI/blob/master/Screenshot%20from%202020-08-30%2020-35-45.png "Short view of the game")
